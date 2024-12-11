@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matheus-lauri
-- 👀 At first, i'm interested in learn tecnologies for the front-end development and try somethings with the c/c++ language. :)
+- 👀 I'm interested in learn tecnologies for software development and trying something with the c/c++/c# languages.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-lauri&layout=donut&show_icons=true&theme=transparent)](https://github.com/matheus-lauri/github-readme-stats)
 
