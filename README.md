@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matheus-lauri
-- 👀 I'm interested in learn tecnologies for software development.
+- 👀 I'm focusing in learn tecnologies for software development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-lauri&layout=donut&show_icons=true&theme=transparent)](https://github.com/matheus-lauri/github-readme-stats)
 
